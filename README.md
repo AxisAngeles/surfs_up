@@ -8,7 +8,7 @@ Therefor, the main goal of the following analysis is to find out the temperature
 
 ## **Results**
 To gather some meaningfull insights, we executed some statistical analyses with Hawaii's historical data to compare the average temperature between June, December and the rest of the year; including some other statistical indicators shown on the following chart:</br></br>
-_Hawaii June and December temperaturea:_
+_Hawaii June and December temperaturea:_</br>
 ![Hawaii_temps](https://github.com/AxisAngeles/surfs_up/blob/main/Challenge/Resources/Hawaii_temps.PNG)
 
 Based on the above, our main conclussions are:
